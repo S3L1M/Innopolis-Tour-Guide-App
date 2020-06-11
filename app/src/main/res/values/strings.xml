@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="innopolis_university">Innopolis University</string>
+    <string name="burgerbeer">108 Burger&amp;Beer</string>
+    <string name="bakhetle">Bakhetle</string>
+    <string name="cacio">Cacio e Vino</string>
+    <string name="cava">Cava Cofe</string>
+    <string name="kg">Kindergarten</string>
+    <string name="school">Lyceum Innopolis</string>
+    <string name="magnit">Magnit</string>
+    <string name="bar">Nashe Mesto Hookah Bar</string>
+    <string name="post">Post_office</string>
+    <string name="pyaterochka">Pyaterochka</string>
+    <string name="sport">Sport_complex</string>
+    <string name="technopark">Technopark</string>
+</resources>
